@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/suheer_khan96](https://x.com/suheer_khan96)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Follow me on Twitter" height="30" width="40" /></a>
+<a href="[[https://x.com/suheer_khan96](https://x.com/suheer_khan96)](https://x.com/suheer_khan96)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Follow me on Twitter" height="30" width="40" /></a>
 <a href="[https://www.linkedin.com/in/suheer-khan/](https://www.linkedin.com/in/suheer-khan/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect with me on Linkedin" height="30" width="40" /></a>
 </p>
 
