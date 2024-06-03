@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 Check out my projects at [https://github.com/khansuheer1/](https://github.com/khansuheer1/)
+- 👨‍💻 Check out my projects at **[https://github.com/khansuheer1/](https://github.com/khansuheer1/)**
 
 - 💬 Ask me about **anything tech-related, I'm all ears!**
 
