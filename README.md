@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khansuheer1&label=Profile%20views&color=0e75b6&style=flat" alt="khansuheer1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yourtwitterhandle" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitterhandle?logo=twitter&style=for-the-badge" alt="yourtwitterhandle" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/suheer_khan96](https://twitter.com/suheer_khan96)" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitterhandle?logo=twitter&style=for-the-badge" alt="yourtwitterhandle" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
