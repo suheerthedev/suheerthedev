@@ -25,7 +25,7 @@
 
 <h3 align="left">🔥 GitHub Streak Stats:</h3>
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=suheerthedev&theme=meta-dark&border_radius=9&ring=3944EB&currStreakNum=EBEBEB&sideNums=3944EB" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=suheerthedev&theme=dark&currStreakNum=3944EB&sideNums=3944EB&ring=3944EB&fire=3944EB&currStreakLabel=FFFFFF" alt="GitHub Streak" /></a>
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
