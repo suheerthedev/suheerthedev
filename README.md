@@ -19,7 +19,7 @@
 
 - 📫 Reach me at **khansuheer1@gmail.com**
 
-- ⚡ Fun fact: **I can write a "Hello World" program in Dart faster than I can make a cup of tea!**
+- ⚡ Fun fact: **I don't get tired while developing an app.**
 
 ---
 
