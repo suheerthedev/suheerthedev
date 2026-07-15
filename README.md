@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Muhammad Suheer Khan 👋</h1>
-<h3 align="center">An aspiring Flutter developer journeying through the tech world!</h3>
+<h3 align="center">An industry experienced Flutter Dev</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=suheerthedev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently mastering **Flutter**
 
 - 👨‍💻 Check out my projects at **[My GitHub Projects](https://github.com/suheerthedev/)**
 
